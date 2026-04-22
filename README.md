@@ -10,7 +10,7 @@ Author       Navya Ail
 Institution  IU Berlin
 
 Abstract
-This research explores the integration of AI in data quality monitoring within ETL applications, with a focus on business reporting implications. Using a mixed-methods approach (qualitative interviews + quantitative surveys), the study examines case studies across banking, healthcare, and automotive finance (including BMW Financial Services). Key findings highlight AI's role in real-time validation, anomaly detection, and automated data cleansing — leading to improved decision-making and regulatory compliance.
+This research explores the integration of AI in data quality monitoring within ETL applications, with a focus on business reporting implications. Using a mixed-methods approach (qualitative interviews + quantitative surveys), the study examines case studies across banking, healthcare, and automotive finance (including BMW Financial Services). Key findings highlight AI's role in real-time validation, anomaly detection, and automated data cleansing leading to improved decision making and regulatory compliance.
 Keywords: Artificial Intelligence, Data Quality, ETL Processes, Business Reporting, Machine Learning, Anomaly Detection, Business Intelligence
 
 
